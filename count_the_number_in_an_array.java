@@ -2,7 +2,7 @@ package saurabh_geekster;
 
 import java.util.Scanner;
 
-public class count_the_target_value_in_an_array {
+public class count_the_number_in_an_array {
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         int n= sc.nextInt();
@@ -24,4 +24,5 @@ public class count_the_target_value_in_an_array {
             System.out.println("target value is not present in the array");
         }
     }
+
 }
