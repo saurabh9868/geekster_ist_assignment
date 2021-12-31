@@ -1,0 +1,7 @@
+1.  first precedence we give to the brackets.           right to left
+2.  second precedence we give unary operators.          right to left
+3.  third precedence we give to the operators *,/,%.    left to right
+4.  fourth precedence we give to the operators +,-.     left to right
+5.  fifth precedence to the relational operator. <,>,<=,>=,==,=    left to right
+6.  sixth precedence to the logical operator.   &,|,&&,||,~,^      left to right
+7.  seventh precedence to the ternary operator
